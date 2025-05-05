@@ -1,6 +1,6 @@
 # QR Code Generator 🧾
 
-A simple and fast QR code generator built with [Streamlit](https://streamlit.io/). Enter any text or URL, and instantly generate a downloadable QR code image!
+A simple and fast QR code generator built with [Streamlit](https://streamlit.io/). Enter any URL, and instantly generate a downloadable QR code image!
 
 🚀 **Live App**: [Click here to try it out!](https://appqr-tzxf9hskqjpbziewbbcjnq.streamlit.app/)
 
